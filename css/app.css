@@ -17,6 +17,9 @@ transform:scaleX(3);
   transform:scaleY(3.3);
 }
 
+.transformhorizontal{
+  padding-left: 290px;
+}
 /*start transition shaking ooo*/
 
 .shaking{
@@ -101,16 +104,24 @@ font-size: 80px;
 
 .imagine h2{
   font-family: 'Raleway', sans-serif;
-  font-size:20px;
+  font-size:23px;
   text-align: center;
   text-transform: uppercase;
 
 }
+
+.thumbnails{
+  padding: 0px;
+}
 /*end animationpoetry*/
 
 /*start sprite*/
+.spritehorizontal{
+  padding-left: 50px;
+  padding-top: 150px;
+}
 .sprite{
-padding: 230px;
+padding: 200px;
 }
 .spritecell{
   padding-left: 330px;
