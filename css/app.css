@@ -18,9 +18,13 @@ transform:scaleX(3);
 }
 
 .transformhorizontal{
-  padding-left: 290px;
+  padding-left: 420px;
 }
+
 /*start transition shaking ooo*/
+.transitionhumbnails{
+  text-align: center;
+}
 
 .shaking{
 padding: 100px;
@@ -124,7 +128,7 @@ font-size: 80px;
 
 /*start sprite*/
 .spritehorizontal{
-  padding-left: 50px;
+  padding-left: 200px;
   padding-top: 150px;
 }
 .sprite{
