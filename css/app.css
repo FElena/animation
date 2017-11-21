@@ -84,6 +84,13 @@ padding-left: 300px;
   text-align: center;
   padding: 100px;
 }
+.thumbnails{
+  text-align: center;
+}
+
+.imgs{
+  padding-top: 20px;
+}
 
 .titlecell h1{
 font-family: 'Raleway Dots', cursive;
